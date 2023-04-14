@@ -1,0 +1,2 @@
+comments - cntrl + /
+format document - shift + alt + f

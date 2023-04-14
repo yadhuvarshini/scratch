@@ -1,0 +1,43 @@
+html
+hypertext markup language                   
+
+1) opening and closing tag 
+
+only few tag -> closing tag nahi
+link            
+input
+img
+
+
+
+<html>  - > opening tag
+ 
+</html>  -> closing tag 
+
+opening tag vs closing tag => forward slash
+
+2) closing tag -> comprises forward slash 
+
+
+day -1 
+tag
+html
+head -> title
+body
+p
+heading 
+
+bonus 
+
+html
+head 
+
+title -> icons , titlebar contents
+
+body
+    web contents
+tags 
+    h1 to h6
+    p
+    span 
+    
